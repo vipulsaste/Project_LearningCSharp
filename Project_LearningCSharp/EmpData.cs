@@ -20,6 +20,7 @@ namespace Project_LearningCSharp
                 Console.WriteLine("Enter Employee Salary");
                 int sal = int.Parse(Console.ReadLine());
                 hash.Add(num, sal);
+                ///////
             }
 
 
